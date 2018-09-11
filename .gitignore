@@ -3,6 +3,7 @@ npm-error.log
 node_modules
 npm-debug.log*
 .DS_Store
+package-lock.json*
 
 # ignore built static files
 /dist
